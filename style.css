@@ -18,7 +18,7 @@ html {
 }
 
 body {
-  background-color: #323131;
+  background-color: rgb(255,67,76);
   color: white;
   position: relative;
   max-width: 540px;
