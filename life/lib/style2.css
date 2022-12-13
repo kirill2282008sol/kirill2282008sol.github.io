@@ -1,0 +1,74 @@
+#c1{
+  height: 700px;
+  width: 700px;
+  border: 1px solid black;
+  background-image: url(ahegao2.jpg);
+}
+
+.naxerabylkurspowebrazrabotke
+{
+  font-family: 'Rubik One', sans-serif;
+  font-size: 20px;
+  text-transform: uppercase;
+  background: #424574;
+  display: table;
+  margin: 3px auto;
+  color: rgb(217, 255, 0);
+  border-radius: 5px;
+  mix-blend-mode: multiply;
+  padding: 5px 10px;
+}
+html {height: 100%;
+
+}
+
+
+
+.Navigation{
+	height: 50px;
+  padding: 0;
+	margin: 0;
+	position: absolute;
+top: 50px; left: 739px;
+}
+
+.Navigation a{							
+	padding:13px;
+	text-decoration: none; 
+	color:#333;
+	text-shadow: 0 1px #fff;
+	display: block;
+}
+.Navigation li ul{
+	display: none;
+	height: auto;									
+	margin-left: -11px;
+	padding: 0;		
+}				
+
+.Navigation li:hover ul{
+	display: block;
+}
+
+
+.Navigation li 	{
+	height: 35px;
+	width: 150px;
+	float: left;
+	text-align: center;
+	list-style: none;
+	font:12px "Bonveno", "Century Gothic";
+	padding: 0;
+	margin: 0;
+	background-color: rgb(238, 177, 228);
+	border: 1px solid rgb(255, 255, 255);
+	box-shadow: 0 1px 0 rgba(255,255,255, .9) inset, 0 1px 3px rgba(0,0,0, .1);
+	border-radius: 10px;
+  margin-left:10px;
+}
+
+body {
+  background: linear-gradient(rgba(255, 187, 0, 0.884), rgb(39, 224, 224));
+	height: 100%;
+}
+
